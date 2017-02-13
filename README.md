@@ -8,3 +8,4 @@
 6.[QuickSort](https://github.com/PYPARA/Algorithms/blob/master/QuickSort.cpp) done<br>
 7.[RandomizedQuickSort](https://github.com/PYPARA/Algorithms/blob/master/RandomizedQuickSort.cpp) done<br>
 8.[HeapSort](https://github.com/PYPARA/Algorithms/blob/master/HeapSort.cpp) done<br>
+9.[CountingSort](https://github.com/PYPARA/Algorithms/blob/master/CountingSort.cpp)  done<br>
