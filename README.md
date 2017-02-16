@@ -10,3 +10,4 @@
 7.[RandomizedQuickSort](https://github.com/PYPARA/Algorithms/blob/master/RandomizedQuickSort.cpp) done<br>
 8.[HeapSort](https://github.com/PYPARA/Algorithms/blob/master/HeapSort.cpp) done<br>
 9.[CountingSort](https://github.com/PYPARA/Algorithms/blob/master/CountingSort.cpp)  done<br>
+10.[Stack.h](https://github.com/PYPARA/Algorithms/blob/master/Stack.h)  [Stack.cpp]()  done<br>
