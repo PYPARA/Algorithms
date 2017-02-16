@@ -7,7 +7,7 @@ public:
 
 	bool empty();
 	T pop();
-	bool push(T);
+	bool push(const T);
 
 private:
 	T* data;
