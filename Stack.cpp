@@ -10,7 +10,7 @@ stack<T>::~stack() {
 }
 
 template<class T>
-bool stack<T>::empty() {
+bool stack<T>::empty() const{
 	if (top < 1)
 		return true;
 	else return false;
