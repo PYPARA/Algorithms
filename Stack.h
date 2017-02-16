@@ -5,7 +5,7 @@ public:
 	stack();
 	~stack();
 
-	bool empty();
+	bool empty() const;
 	T pop();
 	bool push(const T);
 
